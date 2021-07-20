@@ -1,0 +1,31 @@
+a:link{
+    text-decoration: none;
+    color: #11ab95;
+}
+body{
+    font-family: 'Zen Loop', cursive;   
+    font-size: 30px; 
+}
+h1{
+    color:aqua;
+}
+h2,h3{
+    color:darkblue;
+}
+.headings{
+    color: darkgoldenrod;
+}
+ul{  
+    list-style-image:url("images/tiny-coffee-cup.gif") ;
+}
+nav ul{
+    list-style-type: none;
+}
+nav li{
+    display: inline-block;
+}
+nav a:link,nav a:visited{
+    background-color: #3bc3d5;
+    color:black;
+
+}
